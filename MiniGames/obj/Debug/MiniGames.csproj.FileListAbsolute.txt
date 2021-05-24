@@ -37,7 +37,6 @@ C:\Users\acer\Desktop\MiniGames-v2\MiniGames\obj\Debug\MiniGames.pdb
 C:\Users\Hesen\Desktop\MiniGames-v2\MiniGames\bin\Debug\MiniGames.exe.config
 C:\Users\Hesen\Desktop\MiniGames-v2\MiniGames\bin\Debug\MiniGames.exe
 C:\Users\Hesen\Desktop\MiniGames-v2\MiniGames\bin\Debug\MiniGames.pdb
-C:\Users\Hesen\Desktop\MiniGames-v2\MiniGames\obj\Debug\MiniGames.csprojAssemblyReference.cache
 C:\Users\Hesen\Desktop\MiniGames-v2\MiniGames\obj\Debug\MiniGames.GameList.resources
 C:\Users\Hesen\Desktop\MiniGames-v2\MiniGames\obj\Debug\MiniGames.JobCardGame.resources
 C:\Users\Hesen\Desktop\MiniGames-v2\MiniGames\obj\Debug\MiniGames.Main.resources

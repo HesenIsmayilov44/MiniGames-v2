@@ -83,7 +83,10 @@ namespace MiniGames
                         pbsecondclick = pb;
                         secondclick = (int)pb.Tag;
                     }
-
+                    if (_click == 2 && pbfirstclick.Name == pbsecondclick.Name)
+                    {
+                        _click = 1;
+                    }
                     if (_click == 2 && secondclick == firstclick)
                     {
                         pbsecondclick.Enabled = false;
